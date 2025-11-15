@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Prompt Companion",
+  "description": "An interactive web application to explore the capabilities of the Gemini API. Start with a prompt and see what you can create.",
+  "requestFramePermissions": []
+}
